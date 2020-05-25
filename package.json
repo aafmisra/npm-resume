@@ -1,0 +1,14 @@
+{
+  "name": "ashamisra-resume",
+  "version": "1.0.0",
+  "description": "asha's resume as an npm package ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "get resume": "./index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
